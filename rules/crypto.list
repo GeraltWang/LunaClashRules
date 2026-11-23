@@ -1,0 +1,114 @@
+# Crypto：交易所 / 钱包 / 行情 / 链上工具
+# —— 你在用的交易所（按 MetaCubeX 补全）——
+# Binance
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bscdnweb.com
+DOMAIN-SUFFIX,bsappapi.com
+DOMAIN-SUFFIX,nftstatic.com
+DOMAIN-KEYWORD,binance
+# OKX
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.ac
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,xlayer.tech
+# Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+# Gate
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gate.tv
+DOMAIN-SUFFIX,gateapi.io
+DOMAIN-SUFFIX,gatedata.org
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateio.services
+# Kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.onl
+# —— 其他交易所 ——
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitflyer.jp
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,bingx.com
+DOMAIN-SUFFIX,deribit.com
+DOMAIN-SUFFIX,cex.io
+DOMAIN-SUFFIX,osl.com
+DOMAIN-SUFFIX,paxful.com
+DOMAIN-SUFFIX,bisq.network
+# —— 钱包 ——
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,trezor.io
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,walletconnect.com
+# —— 行情 / 资讯 / 链上 ——
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coindesk.com
+DOMAIN-SUFFIX,theblock.co
+DOMAIN-SUFFIX,cointelegraph.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,blockchain.com
+DOMAIN-SUFFIX,blockchair.com
+DOMAIN-SUFFIX,dune.com
+# —— DeFi / 链 / 基础设施 ——
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,aave.com
+DOMAIN-SUFFIX,hyperliquid.xyz
+DOMAIN-SUFFIX,1inch.io
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,curve.fi
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,thirdweb.com
+DOMAIN-SUFFIX,base.org
+DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,litecoin.org
+DOMAIN-SUFFIX,dogecoin.com
+DOMAIN-SUFFIX,ripple.com
