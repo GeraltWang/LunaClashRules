@@ -2,3 +2,5 @@
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,kaggle.com
+# 隐私检测工具，避免暴露真实源 IP
+DOMAIN-SUFFIX,browserleaks.com
