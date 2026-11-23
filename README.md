@@ -4,7 +4,7 @@
 
 | 文件 | 用途 | 建议策略 |
 |---|---|---|
-| `rules/ai.list` | AI 服务 | AI 组 |
+
 | `rules/proxy.list` | 必须代理 | 默认代理 |
 | `rules/direct.list` | 必须直连的例外 | DIRECT |
 | `rules/reject.list` | 广告/追踪 | REJECT |
