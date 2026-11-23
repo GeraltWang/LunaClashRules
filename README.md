@@ -30,9 +30,10 @@
 | 20 | `rules/payment.list` | PayPal / Stripe / Wise 等 | Payment |
 | 21 | `rules/telegram.list` | Telegram | Telegram |
 | 22 | `rules/discord.list` | Discord | Discord |
-| 23 | `rules/proxy.list` | 其他必须代理（HF、Kaggle、WhatsApp） | 默认代理 |
+| 23 | `rules/meta.list` | Meta 全家：Muse / Meta AI、Facebook、Instagram、Threads、WhatsApp、Quest（须在 proxy 前） | Meta |
+| 24 | `rules/proxy.list` | 其他必须代理（Hugging Face、Kaggle） | 默认代理 |
 
-之后可接 MetaCubeX geosite 兜底（google、youtube、netflix、disney、hbo、primevideo、category-cryptocurrency、apple、microsoft），用本地 `geosite.dat`，不额外挂远程规则集。
+之后可接 MetaCubeX geosite 兜底（google、youtube、netflix、disney、hbo、primevideo、category-cryptocurrency、apple、microsoft、meta），用本地 `geosite.dat`，不额外挂远程规则集。
 
 私人域名（自有域名、机场域名）不要放进本仓库，留在本地扩展脚本里。
 

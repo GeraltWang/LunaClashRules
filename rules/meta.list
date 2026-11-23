@@ -1,0 +1,65 @@
+# Meta 集团（参考 MetaCubeX meta / facebook / instagram / whatsapp，已去掉仿冒和刷粉站）
+# Muse / Meta AI / Llama
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,llama.com
+# Meta 账号与公司站
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,atmeta.com
+DOMAIN-SUFFIX,metacdn.com
+# Facebook
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbpigeon.com
+DOMAIN-SUFFIX,fburl.com
+DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,tfbnw.net
+DOMAIN,fbcdn-a.akamaihd.net
+# Messenger
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,fbmessenger.com
+DOMAIN-SUFFIX,m.me
+# Instagram
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,igsonar.com
+DOMAIN-SUFFIX,ig.me
+# Threads
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
+# WhatsApp（从 proxy.list 移入）
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,wa.me
+# Quest / Oculus
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,meta-quest.com
+# 关键字兜底
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,whatsapp
+# Meta 自有 IP（AS32934，WhatsApp/Messenger 通话直连 IP 用）
+IP-CIDR,31.13.24.0/21,no-resolve
+IP-CIDR,31.13.64.0/18,no-resolve
+IP-CIDR,57.144.0.0/14,no-resolve
+IP-CIDR,66.220.144.0/20,no-resolve
+IP-CIDR,69.63.176.0/20,no-resolve
+IP-CIDR,69.171.224.0/19,no-resolve
+IP-CIDR,102.132.96.0/20,no-resolve
+IP-CIDR,129.134.0.0/16,no-resolve
+IP-CIDR,157.240.0.0/16,no-resolve
+IP-CIDR,163.70.128.0/17,no-resolve
+IP-CIDR,173.252.64.0/18,no-resolve
+IP-CIDR,179.60.192.0/22,no-resolve
+IP-CIDR,185.60.216.0/22,no-resolve
+IP-CIDR,204.15.20.0/22,no-resolve
+IP-CIDR6,2a03:2880::/32,no-resolve
