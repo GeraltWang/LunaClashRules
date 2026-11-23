@@ -1,0 +1,14 @@
+# 必须走代理的服务
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
+IP-CIDR,91.108.0.0/16,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve

@@ -1,0 +1,5 @@
+# Cloudflare WARP：走香港节点（PROCESS-NAME 仅桌面端 Clash 有效）
+PROCESS-NAME,CloudflareWARP
+DOMAIN-SUFFIX,cloudflareclient.com
+IP-CIDR,162.159.192.0/22,no-resolve
+IP-CIDR,162.159.204.0/24,no-resolve

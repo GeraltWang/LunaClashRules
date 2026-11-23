@@ -1,0 +1,2 @@
+# 必须直连的服务（国内大列表由 geosite:cn 负责，这里只放例外）
+DOMAIN-SUFFIX,ip138.com
