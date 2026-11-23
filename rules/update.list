@@ -1,0 +1,29 @@
+# 系统与软件更新：建议直连，省代理流量、下载更快（国内有 CDN）
+# Apple
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,swdist.apple.com
+DOMAIN-SUFFIX,swdownload.apple.com
+DOMAIN-SUFFIX,updates.cdn-apple.com
+DOMAIN-SUFFIX,updates-http.cdn-apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,osxapps.itunes.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,osrecovery.apple.com
+# Microsoft
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,download.microsoft.com
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
+DOMAIN-SUFFIX,emdl.ws.microsoft.com
+DOMAIN-SUFFIX,officecdn.microsoft.com
+DOMAIN-SUFFIX,wustat.windows.com
+DOMAIN-SUFFIX,ntservicepack.microsoft.com
+DOMAIN-SUFFIX,vscode.download.prss.microsoft.com
+DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com
+DOMAIN-SUFFIX,xvcf1.xboxlive.com
+DOMAIN-SUFFIX,xvcf2.xboxlive.com
+DOMAIN-SUFFIX,d1.xboxlive.com

@@ -1,0 +1,17 @@
+# GitHub + Copilot（需排在 microsoft.list 之前：copilot.microsoft.com、sydney.bing.com 也匹配 Microsoft）
+# GitHub
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,ghcr.io
+# GitHub Copilot
+DOMAIN-SUFFIX,githubcopilot.com
+# Microsoft Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.com
+DOMAIN-SUFFIX,copilot-stg.com
+DOMAIN-SUFFIX,sydney.bing.com

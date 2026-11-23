@@ -1,7 +1,4 @@
 # 必须走代理的服务（默认代理）
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,kaggle.com

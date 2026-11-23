@@ -1,0 +1,18 @@
+# Apple（系统更新、App 下载见 direct.list 的「系统更新」部分）
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,appleiphonecell.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mac.com
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
