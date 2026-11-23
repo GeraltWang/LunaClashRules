@@ -1,0 +1,18 @@
+# Claude 用到的第三方服务（客服 / 风控 / 支付 / 监控 / 人机验证 / KYC / 统计）
+# 注意：这些是多家网站共用的服务，引用后其他网站用到它们也会走同一出口
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercom-messenger.com
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,us5.datadoghq.com
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+DOMAIN-SUFFIX,r.stripe.com
+DOMAIN-SUFFIX,us.sentry.io
+DOMAIN-SUFFIX,fcmtoken.googleapis.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,withpersona.com
+DOMAIN-SUFFIX,yoti.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,cdn.usefathom.com

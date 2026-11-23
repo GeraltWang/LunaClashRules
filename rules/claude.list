@@ -1,0 +1,29 @@
+# Claude / Anthropic 自有域名与 IP
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claude.dev
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claudeacademy.com
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,ant.dev
+DOMAIN-SUFFIX,anthropic.team
+DOMAIN-SUFFIX,antspace.dev
+DOMAIN-SUFFIX,chatbotclaude.com
+DOMAIN-SUFFIX,claudepages.dev
+DOMAIN-SUFFIX,claudestudio.com
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.auth0.com
+DOMAIN-SUFFIX,anthropic-com.ghost.io
+DOMAIN-SUFFIX,anthropic.com.cdn.cloudflare.net
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
+# Anthropic, PBC 登记的地址段（AS399358 / AP-2440）
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-CIDR,153.61.208.0/20,no-resolve
+IP-CIDR,153.61.224.0/22,no-resolve
