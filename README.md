@@ -31,7 +31,7 @@
 | 21 | `rules/telegram.list` | Telegram | Telegram |
 | 22 | `rules/discord.list` | Discord | Discord |
 | 23 | `rules/meta.list` | Meta 全家：Muse / Meta AI、Facebook、Instagram、Threads、WhatsApp、Quest（须在 proxy 前） | Meta |
-| 24 | `rules/proxy.list` | 其他必须代理（Hugging Face、Kaggle） | 默认代理 |
+| 24 | `rules/proxy.list` | 其他必须代理（Hugging Face、Kaggle、BrowserLeaks） | 默认代理 |
 
 之后可接 MetaCubeX geosite 兜底（google、youtube、netflix、disney、hbo、primevideo、category-cryptocurrency、apple、microsoft、meta），用本地 `geosite.dat`，不额外挂远程规则集。
 
