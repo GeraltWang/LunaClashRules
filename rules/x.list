@@ -1,0 +1,37 @@
+# X / Twitter + SpaceX / Starlink / Tesla
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twittercdn.com
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,twitter.map.fastly.net
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,vine.co
+DOMAIN-KEYWORD,twitter
+# SpaceX / Starlink / Tesla
+DOMAIN-SUFFIX,spacex.com
+DOMAIN-SUFFIX,starlink.com
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,teslamotors.com
+DOMAIN-SUFFIX,tesla.services
+DOMAIN-SUFFIX,teslaenergy.services
+DOMAIN-SUFFIX,teslazta.net
+DOMAIN-SUFFIX,solarcity.com
+DOMAIN-SUFFIX,ts.la

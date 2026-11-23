@@ -1,0 +1,11 @@
+# Grok（xAI）+ Cursor（需排在 x.list 之前，否则 grok.x.com 会被 X 组先匹配）
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grokbot.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursorvm.com
