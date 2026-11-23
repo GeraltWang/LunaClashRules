@@ -1,0 +1,25 @@
+# Amazon Prime Video（只含视频，不含 Amazon 购物）
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,primevideo.tv
+DOMAIN-SUFFIX,primevideo.cc
+DOMAIN-SUFFIX,primevideo.info
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,prime-video.com
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,amazonvideo.cc
+DOMAIN-SUFFIX,amazonprimevideos.com
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,pv-cdn.net
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN,images-na.ssl-images-amazon.com
+DOMAIN,images-eu.ssl-images-amazon.com
+DOMAIN,images-fe.ssl-images-amazon.com
+DOMAIN,msh.amazon.co.uk
+DOMAIN,static.siege-amazon.com
