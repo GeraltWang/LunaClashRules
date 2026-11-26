@@ -85,6 +85,9 @@ DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,trezor.io
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,walletconnect.com
+# Rabby / DeBank
+DOMAIN-SUFFIX,rabby.io
+DOMAIN-SUFFIX,debank.com
 # —— 行情 / 资讯 / 链上 ——
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinmarketcap.com
