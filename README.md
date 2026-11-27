@@ -16,22 +16,23 @@
 | 6 | `rules/claude-risk.list` | Claude 风控相关第三方（须在 payment 前） | Claude |
 | 7 | `rules/claude.list` | Anthropic / Claude | Claude |
 | 8 | `rules/xai-cursor.list` | Grok / xAI / Cursor（须在 x 前） | Grok |
-| 9 | `rules/x.list` | X/Twitter、SpaceX、Starlink、Tesla | X |
-| 10 | `rules/youtube.list` | YouTube（须在 google 前） | YouTube |
-| 11 | `rules/google.list` | Google / Gemini | Google |
-| 12 | `rules/github.list` | GitHub + Copilot（须在 microsoft 前） | GitHub |
-| 13 | `rules/apple.list` | Apple / iCloud | Apple（默认直连） |
-| 14 | `rules/microsoft.list` | Microsoft / Office / Xbox | Microsoft（默认直连） |
-| 15 | `rules/crypto.list` | 交易所、钱包、资讯 | Crypto |
-| 16 | `rules/netflix.list` | Netflix | Netflix |
-| 17 | `rules/disney.list` | Disney+ | Disney+ |
-| 18 | `rules/hbo.list` | HBO Max | HBO |
-| 19 | `rules/primevideo.list` | Prime Video | Prime Video |
-| 20 | `rules/payment.list` | PayPal / Stripe / Wise 等 | Payment |
-| 21 | `rules/telegram.list` | Telegram | Telegram |
-| 22 | `rules/discord.list` | Discord | Discord |
-| 23 | `rules/meta.list` | Meta 全家：Muse / Meta AI、Facebook、Instagram、Threads、WhatsApp、Quest（须在 proxy 前） | Meta |
-| 24 | `rules/proxy.list` | 其他必须代理（Hugging Face、Kaggle、BrowserLeaks） | 默认代理 |
+| 9 | `rules/ampcode.list` | Amp（ampcode.com / ampcode.app / onamp.dev） | Amp |
+| 10 | `rules/x.list` | X/Twitter、SpaceX、Starlink、Tesla | X |
+| 11 | `rules/youtube.list` | YouTube（须在 google 前） | YouTube |
+| 12 | `rules/google.list` | Google / Gemini | Google |
+| 13 | `rules/github.list` | GitHub + Copilot（须在 microsoft 前） | GitHub |
+| 14 | `rules/apple.list` | Apple / iCloud | Apple（默认直连） |
+| 15 | `rules/microsoft.list` | Microsoft / Office / Xbox | Microsoft（默认直连） |
+| 16 | `rules/crypto.list` | 交易所、钱包、资讯 | Crypto |
+| 17 | `rules/netflix.list` | Netflix | Netflix |
+| 18 | `rules/disney.list` | Disney+ | Disney+ |
+| 19 | `rules/hbo.list` | HBO Max | HBO |
+| 20 | `rules/primevideo.list` | Prime Video | Prime Video |
+| 21 | `rules/payment.list` | PayPal / Stripe / Wise 等 | Payment |
+| 22 | `rules/telegram.list` | Telegram | Telegram |
+| 23 | `rules/discord.list` | Discord | Discord |
+| 24 | `rules/meta.list` | Meta 全家：Muse / Meta AI、Facebook、Instagram、Threads、WhatsApp、Quest（须在 proxy 前） | Meta |
+| 25 | `rules/proxy.list` | 其他必须代理（Hugging Face、Kaggle、BrowserLeaks） | 默认代理 |
 
 之后可接 MetaCubeX geosite 兜底（google、youtube、netflix、disney、hbo、primevideo、category-cryptocurrency、apple、microsoft、meta），用本地 `geosite.dat`，不额外挂远程规则集。
 

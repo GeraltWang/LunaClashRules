@@ -1,0 +1,6 @@
+# Amp（ampcode.com）
+# 官方出站名单：https://ampcode.com/security
+# 不含 amp.dev（那是 Google AMP），也不含 Sourcegraph / WorkOS 等第三方
+DOMAIN-SUFFIX,ampcode.com
+DOMAIN-SUFFIX,ampcode.app
+DOMAIN-SUFFIX,onamp.dev
